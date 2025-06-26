@@ -56,7 +56,7 @@ A *secure, role-based user management system* built with Node.js, Express, and M
 ### Step 1: Clone the Repository
 
 bash
-<pre>git clone https://github.com/AbdulWasiu029/user-management.git</pre>
+<pre>git clone https://github.com/yw-kiani/user-management.git</pre>
 
 <pre>cd user-management</pre>
 
