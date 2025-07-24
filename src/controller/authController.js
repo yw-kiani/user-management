@@ -95,7 +95,7 @@ module.exports = {
 
       if (failedAttempts[email] >= 3) {
         await sendAlertEmail(
-          "memonabdulwasiu@gmail.com",
+          "guglu8979@gmail.com",
           "ALERT: 3 Failed User Login Attempts",
           `There have been 3 failed login attempts for the account: ${email}`
         );
@@ -239,7 +239,7 @@ module.exports = {
 
       if (failedAttempts[email] >= 3) {
         await sendAlertEmail(
-          "memonabdulwasiu@gmail.com",
+          "guglu8979@gmail.com",
           "ALERT: 3 Failed Admin Login Attempts",
           `There have been 3 failed admin login attempts for the account: ${email}`
         );
